@@ -1,7 +1,7 @@
 # Directory-to-my-github
 
 ## About
-This is a respository to serve as an easy directory to my Github. Each repository will have more README(s) to give information about that repository.
+This is a repository to serve as an easy directory to my Github. Each repository will have more README(s) to give information about that repository.
 
 ## Projects
 I have worked on several projects related to Web Development & scripting using Python. You can find all of them through repositories. Following is the link to the projects hosted online. Projects that are not hosted have been linked to their repositories.
