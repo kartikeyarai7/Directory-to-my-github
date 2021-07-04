@@ -9,7 +9,8 @@ I have worked on several projects related to Web Development & scripting using P
 ### Web Dev
 
 * [Sportscord](https://sportscord.herokuapp.com/) : A real time chat application for people to connect and discuss. Made using Socket.io and Node.js
-* [Notes](https://notes-webapp-online.netlify.app/) : Web application for making Notes online using DOM manipulation 
+* [Superhero-Search](https://superherosearchwithpromises.netlify.app/) : Using the Superhero Api with async and await. Need to disable CORS to allow fetch request.
+* [Notes](https://notes-webapp-online.netlify.app/) : Web application for making Notes online using DOM manipulation. 
 * [Drumkit](https://drumkit07.netlify.app/) : Drum kit made using HTML , CSS and JS. Using DOM manipulation to respond to key strokes and creating custom tunes.
 * [ToDoList](https://to-do-list-for-productivity.netlify.app/) : A basic to do list made using jquery.
 * [Color Picker Game](https://colorpickergames.netlify.app/) : Color picker Game using Vanilla JS, Html and CSS.
@@ -30,6 +31,9 @@ I have worked on several projects related to Web Development & scripting using P
 * [Digital Clock](https://github.com/kartikeyarai7/Digital-Clock#digital-clock) : Made using HTML, CSS and JS.
 * [Calculator](https://github.com/kartikeyarai7/Calculator) : Calculator using JS, HTML and CSS
 * [Color Flipper](https://github.com/kartikeyarai7/Colorflipper#colorflipper) : Flips the background color to a random color every time you click. Used Vanilla JS
+* [Modal](https://github.com/kartikeyarai7/Modal-) : Modal made using Javascript
+* [Dashboard](https://github.com/kartikeyarai7/CRM-Dashboard) : CRM dashboard made using JavaScript. Used charting libraries for displaying data visually
+* [Image Gallery](https://github.com/kartikeyarai7/Image-gallery-) : Using CSS grid and Unsplash API to generate an image gallery with changing images
 
 ### Python
 
