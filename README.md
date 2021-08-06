@@ -9,6 +9,7 @@ I have worked on several projects related to Web Development & scripting using P
 ### Web Dev
 
 * [Sportscord](https://sportscord.herokuapp.com/) : A real time chat application for people to connect and discuss. Made using Socket.io and Node.js
+* [Robofriends](https://kartikeyarai7.github.io/Robofriends/) :  Using React and fetch API to make a robot search application
 * [Superhero-Search](https://superherosearchwithpromises.netlify.app/) : Using the Superhero Api with async and await. Need to disable CORS to allow fetch request.
 * [Notes](https://notes-webapp-online.netlify.app/) : Web application for making Notes online using DOM manipulation. 
 * [Drumkit](https://drumkit07.netlify.app/) : Drum kit made using HTML , CSS and JS. Using DOM manipulation to respond to key strokes and creating custom tunes.
