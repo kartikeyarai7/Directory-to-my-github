@@ -9,6 +9,7 @@ I have worked on several projects related to Web Development & scripting using P
 ### Web Dev
 
 * [Sportscord](https://sportscord.herokuapp.com/) : A real time chat application for people to connect and discuss. Made using Socket.io and Node.js
+* [Map](https://esri-map.netlify.app/) : Using ESRI's api to mount a map with search functionality
 * [Robofriends](https://kartikeyarai7.github.io/Robofriends/) :  Using React and fetch API to make a robot search application
 * [Superhero-Search](https://superherosearchwithpromises.netlify.app/) : Using the Superhero Api with async and await. Need to disable CORS to allow fetch request.
 * [Notes](https://notes-webapp-online.netlify.app/) : Web application for making Notes online using DOM manipulation. 
