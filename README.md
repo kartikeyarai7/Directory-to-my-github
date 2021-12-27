@@ -8,6 +8,7 @@ I have worked on several projects related to Web Development & scripting using P
 
 ### Web Dev
 
+* [Navigator](https://navigator-arcgis-api.netlify.app/) : Using ESRI's rest api to make an application for searching places, mounting map and generating location 
 * [Sportscord](https://sportscord.herokuapp.com/) : A real time chat application for people to connect and discuss. Made using Socket.io and Node.js
 * [Map](https://esri-map.netlify.app/) : Using ESRI's api to mount a map with search functionality
 * [Budgeting App](https://budgeting-webapp.netlify.app/): Using context api in React to make an budget management application 
