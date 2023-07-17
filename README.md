@@ -8,9 +8,12 @@ I have worked on several projects related to Web Development & scripting using P
 
 ### Web Dev
 
+* [Bootcamp Website](https://frontendcamp.netlify.app/) : Using Bootstrap 5 to replicate a website for a Frontend Bootcamp. 
+* [Portfolio Website](https://kartikeyrai.netlify.app/) : Extension of my resume.
+* [DigitRex Website](https://digitrex.netlify.app/) : Website for a creative agency. 
+* [Commercial website](https://raidentalimplantcentre.com/) :  Website for a dental clinic.
+* [Commercial Website](https://maxridetubes.com/) : Website for a tyre & tube company. 
 * [Navigator](https://navigator-arcgis-api.netlify.app/) : Using ESRI's rest api to make an application for searching places, mounting map and generating location 
-* [Sportscord](https://sportscord.herokuapp.com/) : A real time chat application for people to connect and discuss. Made using Socket.io and Node.js
-* [Map](https://esri-map.netlify.app/) : Using ESRI's api to mount a map with search functionality
 * [Budgeting App](https://budgeting-webapp.netlify.app/): Using context api in React to make an budget management application 
 * [Robofriends](https://kartikeyarai7.github.io/Robofriends/) :  Using React and fetch API to make a robot search application
 * [Superhero-Search](https://superherosearchwithpromises.netlify.app/) : Using the Superhero Api with async and await. Need to disable CORS to allow fetch request.
@@ -19,14 +22,12 @@ I have worked on several projects related to Web Development & scripting using P
 * [ToDoList](https://to-do-list-for-productivity.netlify.app/) : A basic to do list made using jquery.
 * [Color Picker Game](https://colorpickergames.netlify.app/) : Color picker Game using Vanilla JS, Html and CSS.
 * [ScoreKeeper](https://scorekeeper-game.netlify.app/) : Scorekeeper made using HTML, CSS & Vanilla Javascript.
-* [Bootcamp Website](https://frontendcamp.netlify.app/) : Using Bootstrap 5 to replicate a website for a Frontend Bootcamp. 
-* [Portfolio Website](https://kartikeyrai.netlify.app/) : Extension of my resume using HTML, CSS & Vanilla Javascript.
-* [DigitRex Website](https://digitrex.netlify.app/) : Website for a creative agency. 
-* [Commercial website](https://raidentalimplantcentre.com/) :  Website for a dental clinic.
-* [Commercial Website](https://maxridetubes.com/) : Website for a tyre & tube company.   
+  
 
 ---------- Projects listed below are not hosted -------------- 
 
+
+* [Sportscord]([https://github.com/kartikeyarai7/SportsCord]) : A real time chat application for people to connect and discuss. Made using Socket.io and Node.js
 * [BMI-Calculator](https://github.com/kartikeyarai7/BMI-Calculator) : BMI calculator using HTML, CSS and Vanilla JS
 * [Fitness-Indicator](https://github.com/kartikeyarai7/Fitness-Indicator) : Gauging the fitness level using BMI as the index. Made using Angular JS & Bootstrap
 * [Robot](https://github.com/kartikeyarai7/Robot) : A friendly robot that reacts on hovering over. Made using CSS
