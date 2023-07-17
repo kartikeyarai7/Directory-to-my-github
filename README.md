@@ -9,7 +9,6 @@ I have worked on several projects related to Web Development & scripting using P
 ### Web Dev
 
 * [Bootcamp Website](https://frontendcamp.netlify.app/) : Using Bootstrap 5 to replicate a website for a Frontend Bootcamp. 
-* [Portfolio Website](https://kartikeyrai.netlify.app/) : Extension of my resume.
 * [DigitRex Website](https://digitrex.netlify.app/) : Website for a creative agency. 
 * [Commercial website](https://raidentalimplantcentre.com/) :  Website for a dental clinic.
 * [Commercial Website](https://maxridetubes.com/) : Website for a tyre & tube company. 
